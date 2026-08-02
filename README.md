@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PawanBhati097/Leetcode/tree/master/0020-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/PawanBhati097/Leetcode/tree/master/0136-single-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/PawanBhati097/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
