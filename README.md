@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/PawanBhati097/Leetcode/tree/master/0039-combination-sum) |
 | [0136-single-number](https://github.com/PawanBhati097/Leetcode/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/PawanBhati097/Leetcode/tree/master/0260-single-number-iii) |
 ## Bit Manipulation
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/PawanBhati097/Leetcode/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/PawanBhati097/Leetcode/tree/master/0039-combination-sum) |
 ## Bracket Sequences
 |  |
 | ------- |
