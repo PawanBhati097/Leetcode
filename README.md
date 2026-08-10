@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/PawanBhati097/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PawanBhati097/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/PawanBhati097/Leetcode/tree/master/0037-sudoku-solver) |
 ## String
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/PawanBhati097/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/PawanBhati097/Leetcode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/PawanBhati097/Leetcode/tree/master/0051-n-queens) |
 | [0136-single-number](https://github.com/PawanBhati097/Leetcode/tree/master/0136-single-number) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PawanBhati097/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/PawanBhati097/Leetcode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/PawanBhati097/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/PawanBhati097/Leetcode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/PawanBhati097/Leetcode/tree/master/0051-n-queens) |
 | [0131-palindrome-partitioning](https://github.com/PawanBhati097/Leetcode/tree/master/0131-palindrome-partitioning) |
@@ -97,5 +100,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/PawanBhati097/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/PawanBhati097/Leetcode/tree/master/0051-n-queens) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/PawanBhati097/Leetcode/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/PawanBhati097/Leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
