@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/PawanBhati097/Leetcode/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/PawanBhati097/Leetcode/tree/master/0051-n-queens) |
 | [0136-single-number](https://github.com/PawanBhati097/Leetcode/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/PawanBhati097/Leetcode/tree/master/0260-single-number-iii) |
 ## Bit Manipulation
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PawanBhati097/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/PawanBhati097/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/PawanBhati097/Leetcode/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/PawanBhati097/Leetcode/tree/master/0051-n-queens) |
 | [0131-palindrome-partitioning](https://github.com/PawanBhati097/Leetcode/tree/master/0131-palindrome-partitioning) |
 ## Bracket Sequences
 |  |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/PawanBhati097/Leetcode/tree/master/0386-lexicographical-numbers) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/PawanBhati097/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
