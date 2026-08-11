@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PawanBhati097/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/PawanBhati097/Leetcode/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/PawanBhati097/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/PawanBhati097/Leetcode/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/PawanBhati097/Leetcode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/PawanBhati097/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/PawanBhati097/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/PawanBhati097/Leetcode/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/PawanBhati097/Leetcode/tree/master/0260-single-number-iii) |
 ## Bit Manipulation
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PawanBhati097/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/PawanBhati097/Leetcode/tree/master/0217-contains-duplicate) |
 ## Counting
 |  |
 | ------- |
