@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/PawanBhati097/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/PawanBhati097/Leetcode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/PawanBhati097/Leetcode/tree/master/0069-sqrtx) |
+| [0204-count-primes](https://github.com/PawanBhati097/Leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/PawanBhati097/Leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/PawanBhati097/Leetcode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/PawanBhati097/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/PawanBhati097/Leetcode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/PawanBhati097/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/PawanBhati097/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/PawanBhati097/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/PawanBhati097/Leetcode/tree/master/0260-single-number-iii) |
@@ -159,4 +161,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/PawanBhati097/Leetcode/tree/master/0219-contains-duplicate-ii) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/PawanBhati097/Leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/PawanBhati097/Leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/PawanBhati097/Leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/PawanBhati097/Leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/PawanBhati097/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
