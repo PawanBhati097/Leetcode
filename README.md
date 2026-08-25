@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/PawanBhati097/Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/PawanBhati097/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/PawanBhati097/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/PawanBhati097/Leetcode/tree/master/0054-spiral-matrix) |
 | [0136-single-number](https://github.com/PawanBhati097/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/PawanBhati097/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/PawanBhati097/Leetcode/tree/master/0189-rotate-array) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/PawanBhati097/Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/PawanBhati097/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/PawanBhati097/Leetcode/tree/master/0054-spiral-matrix) |
 ## Dancing Links
 |  |
 | ------- |
@@ -210,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/PawanBhati097/Leetcode/tree/master/0509-fibonacci-number) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/PawanBhati097/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
