@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/PawanBhati097/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/PawanBhati097/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/PawanBhati097/Leetcode/tree/master/0054-spiral-matrix) |
+| [0088-merge-sorted-array](https://github.com/PawanBhati097/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/PawanBhati097/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/PawanBhati097/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/PawanBhati097/Leetcode/tree/master/0189-rotate-array) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PawanBhati097/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PawanBhati097/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PawanBhati097/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/PawanBhati097/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/PawanBhati097/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/PawanBhati097/Leetcode/tree/master/0283-move-zeroes) |
 | [0647-palindromic-substrings](https://github.com/PawanBhati097/Leetcode/tree/master/0647-palindromic-substrings) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/PawanBhati097/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/PawanBhati097/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/PawanBhati097/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/PawanBhati097/Leetcode/tree/master/0268-missing-number) |
