@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PawanBhati097/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/PawanBhati097/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/PawanBhati097/Leetcode/tree/master/0704-binary-search) |
+| [1537-get-the-maximum-score](https://github.com/PawanBhati097/Leetcode/tree/master/1537-get-the-maximum-score) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/PawanBhati097/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/PawanBhati097/Leetcode/tree/master/0283-move-zeroes) |
 | [0647-palindromic-substrings](https://github.com/PawanBhati097/Leetcode/tree/master/0647-palindromic-substrings) |
+| [1537-get-the-maximum-score](https://github.com/PawanBhati097/Leetcode/tree/master/1537-get-the-maximum-score) |
 ## String Matching
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/PawanBhati097/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/PawanBhati097/Leetcode/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/PawanBhati097/Leetcode/tree/master/0647-palindromic-substrings) |
+| [1537-get-the-maximum-score](https://github.com/PawanBhati097/Leetcode/tree/master/1537-get-the-maximum-score) |
 ## Backtracking
 |  |
 | ------- |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/PawanBhati097/Leetcode/tree/master/0011-container-with-most-water) |
+| [1537-get-the-maximum-score](https://github.com/PawanBhati097/Leetcode/tree/master/1537-get-the-maximum-score) |
 ## Recursion
 |  |
 | ------- |
