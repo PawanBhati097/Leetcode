@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/PawanBhati097/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/PawanBhati097/Leetcode/tree/master/0704-binary-search) |
 | [0826-most-profit-assigning-work](https://github.com/PawanBhati097/Leetcode/tree/master/0826-most-profit-assigning-work) |
+| [0845-longest-mountain-in-array](https://github.com/PawanBhati097/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [1537-get-the-maximum-score](https://github.com/PawanBhati097/Leetcode/tree/master/1537-get-the-maximum-score) |
 ## Bit Manipulation
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/PawanBhati097/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/PawanBhati097/Leetcode/tree/master/0763-partition-labels) |
 | [0826-most-profit-assigning-work](https://github.com/PawanBhati097/Leetcode/tree/master/0826-most-profit-assigning-work) |
+| [0845-longest-mountain-in-array](https://github.com/PawanBhati097/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [1537-get-the-maximum-score](https://github.com/PawanBhati097/Leetcode/tree/master/1537-get-the-maximum-score) |
 ## String Matching
 |  |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/PawanBhati097/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/PawanBhati097/Leetcode/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/PawanBhati097/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0845-longest-mountain-in-array](https://github.com/PawanBhati097/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [1537-get-the-maximum-score](https://github.com/PawanBhati097/Leetcode/tree/master/1537-get-the-maximum-score) |
 ## Backtracking
 |  |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/PawanBhati097/Leetcode/tree/master/0204-count-primes) |
+| [0845-longest-mountain-in-array](https://github.com/PawanBhati097/Leetcode/tree/master/0845-longest-mountain-in-array) |
 ## Number Theory
 |  |
 | ------- |
