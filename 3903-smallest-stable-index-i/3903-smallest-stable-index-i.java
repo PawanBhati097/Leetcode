@@ -1,33 +1,25 @@
 class Solution {
     public int firstStableIndex(int[] nums, int k) {
-        for(int i = 0; i < nums.length; i++) {
-            int a = Largest(0, i, nums);
-            int b = Smallest(i, nums.length - 1, nums);  
-            int diff = a - b;
-            if(diff <= k) {  
-                return i;    
+        //prefix-max
+        int n=nums.length;
+        int[] left=new int[n];
+        left[0]=nums[0];
+        for(int i=1;i<n;i++){
+            left[i]=Math.max(left[i-1],nums[i]);
+        }
+        //suffix-min
+        int[] right=new int[n];
+        right[n-1]=nums[n-1];
+        for(int i=n-2;i>=0;i--){
+            right[i]=Math.min(right[i+1],nums[i]);
+        }
+        //calculation
+        int j=0;
+        for(int i=0;i<n;i++){
+            if(left[i]-right[i]<=k){
+                return i;
             }
         }
-        return -1;  
-    }
-    
-    public static int Largest(int start, int end, int[] nums) {
-        int large = nums[start];  
-        for(int i = start; i <= end; i++) {
-            if(nums[i] > large) {
-                large = nums[i];
-            }
-        }
-        return large;
-    }
-    
-    public static int Smallest(int start, int end, int[] nums) {
-        int small = nums[start];  
-        for(int i = start; i <= end; i++) {  
-            if(nums[i] < small) {
-                small = nums[i];
-            }
-        }
-        return small;
+        return -1;
     }
 }
