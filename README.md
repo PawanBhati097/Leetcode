@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/PawanBhati097/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [1537-get-the-maximum-score](https://github.com/PawanBhati097/Leetcode/tree/master/1537-get-the-maximum-score) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/PawanBhati097/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/PawanBhati097/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/PawanBhati097/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [3903-smallest-stable-index-i](https://github.com/PawanBhati097/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Combinatorics
 |  |
 | ------- |
