@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/PawanBhati097/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/PawanBhati097/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0826-most-profit-assigning-work](https://github.com/PawanBhati097/Leetcode/tree/master/0826-most-profit-assigning-work) |
+| [0835-image-overlap](https://github.com/PawanBhati097/Leetcode/tree/master/0835-image-overlap) |
 | [0845-longest-mountain-in-array](https://github.com/PawanBhati097/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [1537-get-the-maximum-score](https://github.com/PawanBhati097/Leetcode/tree/master/1537-get-the-maximum-score) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/PawanBhati097/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/PawanBhati097/Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/PawanBhati097/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/PawanBhati097/Leetcode/tree/master/0054-spiral-matrix) |
+| [0835-image-overlap](https://github.com/PawanBhati097/Leetcode/tree/master/0835-image-overlap) |
 ## Dancing Links
 |  |
 | ------- |
