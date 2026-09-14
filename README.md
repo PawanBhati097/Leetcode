@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/PawanBhati097/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/PawanBhati097/Leetcode/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/PawanBhati097/Leetcode/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/PawanBhati097/Leetcode/tree/master/0836-rectangle-overlap) |
 | [3870-count-commas-in-range](https://github.com/PawanBhati097/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/PawanBhati097/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/PawanBhati097/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -289,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/PawanBhati097/Leetcode/tree/master/0062-unique-paths) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/PawanBhati097/Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
