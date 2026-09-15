@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/PawanBhati097/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/PawanBhati097/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/PawanBhati097/Leetcode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/PawanBhati097/Leetcode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/PawanBhati097/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/PawanBhati097/Leetcode/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/PawanBhati097/Leetcode/tree/master/0509-fibonacci-number) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/PawanBhati097/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0326-power-of-three](https://github.com/PawanBhati097/Leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/PawanBhati097/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
