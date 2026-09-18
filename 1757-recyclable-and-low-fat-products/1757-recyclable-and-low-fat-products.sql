@@ -1,3 +1,3 @@
 # Write your MySQL query statement below
-Select product_id from Products
-where low_fats='Y'&&recyclable='Y';
+SELECT product_id from Products
+WHERE low_fats='Y' AND recyclable='Y';
