@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PawanBhati097/Leetcode/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/PawanBhati097/Leetcode/tree/master/0085-maximal-rectangle) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/PawanBhati097/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Array
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/PawanBhati097/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/PawanBhati097/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/PawanBhati097/Leetcode/tree/master/0055-jump-game) |
+| [0085-maximal-rectangle](https://github.com/PawanBhati097/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/PawanBhati097/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/PawanBhati097/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/PawanBhati097/Leetcode/tree/master/0169-majority-element) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/PawanBhati097/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/PawanBhati097/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/PawanBhati097/Leetcode/tree/master/0062-unique-paths) |
+| [0085-maximal-rectangle](https://github.com/PawanBhati097/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/PawanBhati097/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/PawanBhati097/Leetcode/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/PawanBhati097/Leetcode/tree/master/0647-palindromic-substrings) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/PawanBhati097/Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/PawanBhati097/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/PawanBhati097/Leetcode/tree/master/0054-spiral-matrix) |
+| [0085-maximal-rectangle](https://github.com/PawanBhati097/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0835-image-overlap](https://github.com/PawanBhati097/Leetcode/tree/master/0835-image-overlap) |
 ## Dancing Links
 |  |
@@ -316,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/PawanBhati097/Leetcode/tree/master/0836-rectangle-overlap) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/PawanBhati097/Leetcode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
