@@ -4,19 +4,21 @@
  */
 var expect = function(val) {
     return {
-        toBe: function(other) {
-            if (val === other) {
-                return true;
+        toBe: function(comp) {
+            if(val === comp) {
+                return true
+            } else {
+                throw("Not Equal")
             }
-            throw new Error("Not Equal");
         },
-        notToBe: function(other) {
-            if (val !== other) {
-                return true;
+        notToBe: function (comp) {
+            if(val !== comp) {
+                return true
+            } else {
+                throw("Equal")
             }
-            throw new Error("Equal");
         }
-    };
+    }
 };
 
 /**
