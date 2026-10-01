@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/PawanBhati097/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/PawanBhati097/Leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/PawanBhati097/Leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/PawanBhati097/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/PawanBhati097/Leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/PawanBhati097/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/PawanBhati097/Leetcode/tree/master/0189-rotate-array) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/PawanBhati097/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/PawanBhati097/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/PawanBhati097/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/PawanBhati097/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/PawanBhati097/Leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/PawanBhati097/Leetcode/tree/master/0509-fibonacci-number) |
