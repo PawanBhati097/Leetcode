@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/PawanBhati097/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0647-palindromic-substrings](https://github.com/PawanBhati097/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/PawanBhati097/Leetcode/tree/master/0763-partition-labels) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/PawanBhati097/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/PawanBhati097/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Stack
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/PawanBhati097/Leetcode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/PawanBhati097/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/PawanBhati097/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/PawanBhati097/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/PawanBhati097/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Array
 |  |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/PawanBhati097/Leetcode/tree/master/0022-generate-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/PawanBhati097/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/PawanBhati097/Leetcode/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/PawanBhati097/Leetcode/tree/master/0763-partition-labels) |
 | [0826-most-profit-assigning-work](https://github.com/PawanBhati097/Leetcode/tree/master/0826-most-profit-assigning-work) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/PawanBhati097/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1537-get-the-maximum-score](https://github.com/PawanBhati097/Leetcode/tree/master/1537-get-the-maximum-score) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/PawanBhati097/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Recursion
