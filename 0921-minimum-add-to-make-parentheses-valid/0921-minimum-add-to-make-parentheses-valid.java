@@ -1,19 +1,18 @@
 class Solution {
     public int minAddToMakeValid(String s) {
-        int open = 0;   // unmatched '('
-        int moves = 0;  // insertions needed for unmatched ')'
+        Stack<Character> st = new Stack<>();
         for (int i = 0; i < s.length(); i++) {
             char c = s.charAt(i);
             if (c == '(') {
-                open++;
-            } else { // c == ')'
-                if (open > 0) {
-                    open--;      // matches an earlier '('
+                st.push(c);
+            } else {  
+                if (!st.isEmpty() && st.peek() == '(') {
+                    st.pop();
                 } else {
-                    moves++;     // no '(' to match → must insert one
+                    st.push(c);   
                 }
             }
         }
-        return moves + open; // leftover '(' each need a ')'
+        return st.size();
     }
 }
