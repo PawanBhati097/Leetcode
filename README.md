@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/PawanBhati097/Leetcode/tree/master/0835-image-overlap) |
 | [0845-longest-mountain-in-array](https://github.com/PawanBhati097/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [1537-get-the-maximum-score](https://github.com/PawanBhati097/Leetcode/tree/master/1537-get-the-maximum-score) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/PawanBhati097/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/PawanBhati097/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/PawanBhati097/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/PawanBhati097/Leetcode/tree/master/3904-smallest-stable-index-ii) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/PawanBhati097/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/PawanBhati097/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0826-most-profit-assigning-work](https://github.com/PawanBhati097/Leetcode/tree/master/0826-most-profit-assigning-work) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/PawanBhati097/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Newton's Method
 |  |
 | ------- |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/PawanBhati097/Leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/PawanBhati097/Leetcode/tree/master/0455-assign-cookies) |
 | [0826-most-profit-assigning-work](https://github.com/PawanBhati097/Leetcode/tree/master/0826-most-profit-assigning-work) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/PawanBhati097/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Counting
 |  |
 | ------- |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PawanBhati097/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1537-get-the-maximum-score](https://github.com/PawanBhati097/Leetcode/tree/master/1537-get-the-maximum-score) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/PawanBhati097/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/PawanBhati097/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/PawanBhati097/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Recursion
 |  |
@@ -415,4 +419,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/PawanBhati097/Leetcode/tree/master/0303-range-sum-query-immutable) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/PawanBhati097/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
