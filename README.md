@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/PawanBhati097/Leetcode/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/PawanBhati097/Leetcode/tree/master/0112-path-sum) |
 | [0386-lexicographical-numbers](https://github.com/PawanBhati097/Leetcode/tree/master/0386-lexicographical-numbers) |
 ## Trie
 |  |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/PawanBhati097/Leetcode/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/PawanBhati097/Leetcode/tree/master/0112-path-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/PawanBhati097/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Union-Find
 |  |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/PawanBhati097/Leetcode/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/PawanBhati097/Leetcode/tree/master/0112-path-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/PawanBhati097/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
@@ -499,4 +502,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/PawanBhati097/Leetcode/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/PawanBhati097/Leetcode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
