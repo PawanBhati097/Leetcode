@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/PawanBhati097/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/PawanBhati097/Leetcode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/PawanBhati097/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0199-binary-tree-right-side-view](https://github.com/PawanBhati097/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0386-lexicographical-numbers](https://github.com/PawanBhati097/Leetcode/tree/master/0386-lexicographical-numbers) |
 ## Trie
 |  |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/PawanBhati097/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/PawanBhati097/Leetcode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/PawanBhati097/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0199-binary-tree-right-side-view](https://github.com/PawanBhati097/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/PawanBhati097/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Union-Find
 |  |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/PawanBhati097/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/PawanBhati097/Leetcode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/PawanBhati097/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0199-binary-tree-right-side-view](https://github.com/PawanBhati097/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/PawanBhati097/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
@@ -510,4 +513,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/PawanBhati097/Leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/PawanBhati097/Leetcode/tree/master/0112-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/PawanBhati097/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
