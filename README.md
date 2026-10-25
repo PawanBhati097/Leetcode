@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/PawanBhati097/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/PawanBhati097/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/PawanBhati097/Leetcode/tree/master/0204-count-primes) |
+| [0215-kth-largest-element-in-an-array](https://github.com/PawanBhati097/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/PawanBhati097/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/PawanBhati097/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/PawanBhati097/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PawanBhati097/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/PawanBhati097/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/PawanBhati097/Leetcode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/PawanBhati097/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/PawanBhati097/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Sorting
 |  |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/PawanBhati097/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/PawanBhati097/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/PawanBhati097/Leetcode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/PawanBhati097/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/PawanBhati097/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/PawanBhati097/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/PawanBhati097/Leetcode/tree/master/0414-third-maximum-number) |
@@ -482,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/PawanBhati097/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/PawanBhati097/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Binary Indexed Tree
 |  |
@@ -571,4 +575,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/PawanBhati097/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/PawanBhati097/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/PawanBhati097/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
