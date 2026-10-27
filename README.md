@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/PawanBhati097/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/PawanBhati097/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PawanBhati097/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/PawanBhati097/Leetcode/tree/master/0058-length-of-last-word) |
 | [0131-palindrome-partitioning](https://github.com/PawanBhati097/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/PawanBhati097/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0647-palindromic-substrings](https://github.com/PawanBhati097/Leetcode/tree/master/0647-palindromic-substrings) |
