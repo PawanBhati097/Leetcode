@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/PawanBhati097/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/PawanBhati097/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/PawanBhati097/Leetcode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/PawanBhati097/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PawanBhati097/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0763-partition-labels](https://github.com/PawanBhati097/Leetcode/tree/master/0763-partition-labels) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/PawanBhati097/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/PawanBhati097/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/PawanBhati097/Leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/PawanBhati097/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/PawanBhati097/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/PawanBhati097/Leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PawanBhati097/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/PawanBhati097/Leetcode/tree/master/0455-assign-cookies) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/PawanBhati097/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/PawanBhati097/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/PawanBhati097/Leetcode/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/PawanBhati097/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/PawanBhati097/Leetcode/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/PawanBhati097/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/PawanBhati097/Leetcode/tree/master/0763-partition-labels) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/PawanBhati097/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/PawanBhati097/Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/PawanBhati097/Leetcode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/PawanBhati097/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/PawanBhati097/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/PawanBhati097/Leetcode/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/PawanBhati097/Leetcode/tree/master/0704-binary-search) |
@@ -319,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/PawanBhati097/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/PawanBhati097/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/PawanBhati097/Leetcode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/PawanBhati097/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/PawanBhati097/Leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/PawanBhati097/Leetcode/tree/master/0455-assign-cookies) |
 | [0826-most-profit-assigning-work](https://github.com/PawanBhati097/Leetcode/tree/master/0826-most-profit-assigning-work) |
