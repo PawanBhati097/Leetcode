@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/PawanBhati097/Leetcode/tree/master/0826-most-profit-assigning-work) |
 | [0835-image-overlap](https://github.com/PawanBhati097/Leetcode/tree/master/0835-image-overlap) |
 | [0845-longest-mountain-in-array](https://github.com/PawanBhati097/Leetcode/tree/master/0845-longest-mountain-in-array) |
+| [0875-koko-eating-bananas](https://github.com/PawanBhati097/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1537-get-the-maximum-score](https://github.com/PawanBhati097/Leetcode/tree/master/1537-get-the-maximum-score) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/PawanBhati097/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/PawanBhati097/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/PawanBhati097/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/PawanBhati097/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0826-most-profit-assigning-work](https://github.com/PawanBhati097/Leetcode/tree/master/0826-most-profit-assigning-work) |
+| [0875-koko-eating-bananas](https://github.com/PawanBhati097/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/PawanBhati097/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/PawanBhati097/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Newton's Method
