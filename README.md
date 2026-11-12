@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/PawanBhati097/Leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/PawanBhati097/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/PawanBhati097/Leetcode/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/PawanBhati097/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/PawanBhati097/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/PawanBhati097/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/PawanBhati097/Leetcode/tree/master/0231-power-of-two) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/PawanBhati097/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/PawanBhati097/Leetcode/tree/master/0058-length-of-last-word) |
 | [0131-palindrome-partitioning](https://github.com/PawanBhati097/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0171-excel-sheet-column-number](https://github.com/PawanBhati097/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/PawanBhati097/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0647-palindromic-substrings](https://github.com/PawanBhati097/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/PawanBhati097/Leetcode/tree/master/0763-partition-labels) |
