@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/PawanBhati097/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/PawanBhati097/Leetcode/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/PawanBhati097/Leetcode/tree/master/0509-fibonacci-number) |
+| [0598-range-addition-ii](https://github.com/PawanBhati097/Leetcode/tree/master/0598-range-addition-ii) |
 | [0836-rectangle-overlap](https://github.com/PawanBhati097/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/PawanBhati097/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/PawanBhati097/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PawanBhati097/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/PawanBhati097/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/PawanBhati097/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0598-range-addition-ii](https://github.com/PawanBhati097/Leetcode/tree/master/0598-range-addition-ii) |
 | [0704-binary-search](https://github.com/PawanBhati097/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/PawanBhati097/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0826-most-profit-assigning-work](https://github.com/PawanBhati097/Leetcode/tree/master/0826-most-profit-assigning-work) |
