@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PawanBhati097/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/PawanBhati097/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/PawanBhati097/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/PawanBhati097/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/PawanBhati097/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Stack
 |  |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/PawanBhati097/Leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/PawanBhati097/Leetcode/tree/master/0258-add-digits) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/PawanBhati097/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Database
 |  |
 | ------- |
