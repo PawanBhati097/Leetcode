@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/PawanBhati097/Leetcode/tree/master/0509-fibonacci-number) |
 | [0598-range-addition-ii](https://github.com/PawanBhati097/Leetcode/tree/master/0598-range-addition-ii) |
 | [0836-rectangle-overlap](https://github.com/PawanBhati097/Leetcode/tree/master/0836-rectangle-overlap) |
+| [0970-powerful-integers](https://github.com/PawanBhati097/Leetcode/tree/master/0970-powerful-integers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/PawanBhati097/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/PawanBhati097/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/PawanBhati097/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/PawanBhati097/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PawanBhati097/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0763-partition-labels](https://github.com/PawanBhati097/Leetcode/tree/master/0763-partition-labels) |
+| [0970-powerful-integers](https://github.com/PawanBhati097/Leetcode/tree/master/0970-powerful-integers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/PawanBhati097/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/PawanBhati097/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/PawanBhati097/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/PawanBhati097/Leetcode/tree/master/0204-count-primes) |
 | [0845-longest-mountain-in-array](https://github.com/PawanBhati097/Leetcode/tree/master/0845-longest-mountain-in-array) |
+| [0970-powerful-integers](https://github.com/PawanBhati097/Leetcode/tree/master/0970-powerful-integers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/PawanBhati097/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Number Theory
 |  |
