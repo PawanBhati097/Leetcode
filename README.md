@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0970-powerful-integers](https://github.com/PawanBhati097/Leetcode/tree/master/0970-powerful-integers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/PawanBhati097/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/PawanBhati097/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3360-stone-removal-game](https://github.com/PawanBhati097/Leetcode/tree/master/3360-stone-removal-game) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/PawanBhati097/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/PawanBhati097/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/PawanBhati097/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/PawanBhati097/Leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/PawanBhati097/Leetcode/tree/master/0258-add-digits) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/PawanBhati097/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/PawanBhati097/Leetcode/tree/master/3360-stone-removal-game) |
 ## Database
 |  |
 | ------- |
